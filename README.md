@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **https://www.instagram.com/sanskar_agrahari007/**
 
-- ⚡ Fun fact **I got 20 errors in 10 line of code..**
+- ⚡ Fun fact **I got 20 errors in 10 lines of code..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
