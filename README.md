@@ -1,7 +1,6 @@
-![Masterhead](https://www.tumblr.com/search/coding%20gif/gif)
 <h1 align="center">Hi there👋, I'm Sanskar Agrahari</h1>
 <h3 align="center">Passionate about coding and tech enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img  alt="Coding" width="400" src="https://www.tumblr.com/search/coding%20gif/gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskaragrahari-07&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaragrahari-07" /> </p>
 
