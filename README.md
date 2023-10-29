@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Sanskar Agrahari</h1>
 <h3 align="center">Passionate about coding and tech enthusiast.</h3>
-<img  alt="Coding" width="400" src="https://www.tumblr.com/search/coding%20gif/gif">
+<img  alt="Coding" width="400" src="[https://www.tumblr.com/search/coding%20gif/gif](https://64.media.tumblr.com/dbb9ff4f74bd02dc43cdbb7f64c0b190/100b132abcd14d29-71/s2048x3072/df5eabd4acc7321024c4205a275348db3229b409.gifv)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskaragrahari-07&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaragrahari-07" /> </p>
 
