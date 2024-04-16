@@ -30,7 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SanskarAgrahari-07&show_icons=true&locale=en&layout=compact" alt="sanskaragrahari-07" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SanskarAgrahari-07&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" alt="sanskaragrahari-07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SanskarAgrahari-07&repo=github-readme-stats&cache_seconds=86400&theme=dark" alt="sanskaragrahari-07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanskarAgrahari-07&repo=github-readme-stats&cache_seconds=86400&theme=dark" alt="sanskaragrahari-07" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanskarAgrahari-07&show_icons=true&locale=en" alt="sanskaragrahari-07" /></p>
 
 
