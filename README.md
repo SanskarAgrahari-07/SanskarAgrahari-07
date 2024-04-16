@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanskarAgrahari-07&show_icons=true&&amp;locale=en&theme=dark&bg_color=0000" alt="sanskaragrahari-07" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanskarAgrahari-07&theme=dark&bg_color=rgba(0,0,0,0)" alt="sanskaragrahari-07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanskarAgrahari-07&theme=dark&bg_color=0000" alt="sanskaragrahari-07" /></p>
