@@ -2,9 +2,9 @@
 <h3 align="center">Passionate about coding and tech enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskaragrahari-07&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaragrahari-07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanskarAgrahari-07&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaragrahari-07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskaragrahari-07" alt="sanskaragrahari-07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SanskarAgrahari-07" alt="sanskaragrahari-07" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
